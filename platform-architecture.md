@@ -43,6 +43,8 @@ TGM.Bet uses smart contracts to automate and enhance several platform processes.
   * **Secure Storage:** Tokens are stored using advanced encryption techniques and security measures to prevent unauthorized access and theft.
   * **Easy Access:** Players can easily access, use, or withdraw their $TGM tokens without additional steps. This convenience enhances the user experience.
 
+***
+
 ### **Security Measures**
 
 * **End-to-End Encryption:** TGM.Bet utilizes Telegram’s built-in encryption features to ensure all communications, transactions, and gaming activities are fully protected. End-to-end encryption means data is encrypted during transmission and only authorized recipients can decrypt and access it.
