@@ -25,10 +25,11 @@ The tokenomics design for $TGM has the following main goals:
 
 * **Presale**: 40% (40 million $TGM)
   * For early investors and community supporters, providing initial capital for platform development and marketing.
-* **Liquidity Pool**: 20% (20 million $TGM)
 * **Staking**: 20% (20 million $TGM)
-* **Airdrop**: 16% (16 million $TGM)
-* **Partners**: 4% (4 million $TGM)
+* **Liquidity Pool**: 10% (10 million $TGM)
+* **Player Rewards**: 10% (10 million $TGM)
+* **Marketing**: 10% (10 million $TGM)
+* **Team**: 10% (10 million $TGM)
 
 ***
 
