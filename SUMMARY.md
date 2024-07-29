@@ -5,3 +5,4 @@
 * [Market Analysis](market-analysis.md)
 * [TGM.Bet Solution](tgm.bet-solution.md)
 * [Platform Architecture](platform-architecture.md)
+* [Token Economics](token-economics.md)
