@@ -7,3 +7,4 @@
 * [Platform Architecture](platform-architecture.md)
 * [Token Economics](token-economics.md)
 * [Staking Rewards](staking-rewards.md)
+* [General Terms and Conditions](general-terms-and-conditions.md)
