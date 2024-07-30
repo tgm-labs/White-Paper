@@ -64,12 +64,12 @@ Telegram groups and channels can host thousands, if not millions, of users. Thes
 
 One of Telegram's main features is its strong focus on security. With end-to-end encryption and a commitment to protecting user privacy, it is an ideal platform for handling sensitive user data and funds.
 
-Additionally, Telegram can manage a large volume of messages and transactions, ensuring that TG.Casino maintains good scalability during its expansion. Its API supports custom integrations, ensuring that even with the addition of complex casino games and features, the user experience remains smooth and intuitive.
+Additionally, Telegram can manage a large volume of messages and transactions, ensuring that TGM.Bet maintains good scalability during its expansion. Its API supports custom integrations, ensuring that even with the addition of complex casino games and features, the user experience remains smooth and intuitive.
 
 ***
 
 ### Introducing TGM.Bet
 
-TGM.Bet is not just an accidental opportunity but a carefully designed result. Recognizing the advantages of cryptocurrency and the tremendous potential of Telegram as a platform, TG.Casino aims to redefine the online gambling experience.
+TGM.Bet is not just an accidental opportunity but a carefully designed result. Recognizing the advantages of cryptocurrency and the tremendous potential of Telegram as a platform, TGM.Bet aims to redefine the online gambling experience.
 
 Our platform does more than just offer games in a new environment; by introducing the $TGM token, it restructures the economic model of the casino. This native token is more than just a currency; it represents our commitment to users by providing rewards, benefits, and allowing them to share in the actual success of the casino.
