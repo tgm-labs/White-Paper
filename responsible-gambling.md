@@ -1,105 +1,87 @@
 # Responsible Gambling
 
-&#x20;Last Revision: July 30st, 2024
+Last Revision: July 30th, 2024&#x20;
 
-It's essential to review this information for your own well-being.
+For your well-being, please be sure to read the following information carefully.
 
-Interpretation
+### Definitions
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear insingular or in plural.
+The following capitalized terms have the meanings described below, regardless of whether they appear in singular or plural form:
 
-Definitions
+* **Account:** A unique account created for you to access our service or parts of our service.&#x20;
+* **Service:** Refers to the website.&#x20;
+* **Website:** Refers to TGM.Bet.&#x20;
+* **You:** Refers to the individual accessing or using the service, or the company or other legal entity on behalf of which such individual is accessing or using the service.
 
-For the purposes of these Terms and Conditions:
+### Responsible Gambling and Self-Exclusion&#x20;
 
-Account means a unique account created for You to access our Service or parts of our Service.
+While gambling is a source of entertainment and excitement for most users, we recognize that some may experience adverse consequences. To address potential negative impacts, we have always actively provided support.&#x20;
 
-Service refers to the Website.
+Our "Responsible Gambling" measures include several aspects aimed at minimizing adverse effects. If any negative situations arise, we will proactively intervene.&#x20;
 
-Website refers to TGM.Bet.
+Understanding gambling risks and raising awareness is crucial to helping users maintain self-control.
 
-You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+### Support and Resources&#x20;
 
-Responsible Gambling and Self Exclusion
+Our dedicated support team is available via email to provide free assistance:&#x20;
 
-While gambling is a source of entertainment and thrill for most of our patrons, it's recognized that some might face adverse consequences. Recognizing the potential negative implications, we've always been proactive in offering support.
+* **Email:** tgm.bet@TGM.Bet&#x20;
 
-Our approach to "Responsible Gambling" consists of several measures aimed at minimizing adverse effects. Should any negative outcomes arise, we're prepared to intervene proactively.
+Rest assured, your personal information will remain confidential and will not be shared without your consent.&#x20;
 
-Awareness and education about gambling risks play a pivotal role in assisting users in maintaining self-control.
+If you feel you might have a gambling addiction problem, you can take a self-assessment:&#x20;
 
-Support and Resources:
+* **Self-Assessment Page |** [BeGambleAware](https://www.gambleaware.org/)&#x20;
 
-Our dedicated support team is readily available via email, free of charge:
+For more resources on gambling addiction, please visit:&#x20;
 
-• Email: contact@TGM.Bet
+* **Gambling Advice |** [BeGambleAware](https://www.gambleaware.org/advice-if-you-are-gambling)
 
-Rest assured, your personal information will remain confidential and won't be shared without your consent.
+### Responsible Gambling Guidelines at TGM.Bet
 
-you can also take a self-assessment, if you believe you are addicted to gambling at:
+To ensure an enjoyable gambling experience, please consider the following points:&#x20;
 
-Self-Assessment Landing Page | BeGambleAware
+* **Set Deposit Limits:** Set deposit limits according to your financial situation. Only gamble with funds intended for entertainment.&#x20;
+* **Do Not Chase Losses:** Gambling is meant for entertainment, not for making a profit.&#x20;
+* **Set Time Limits:** Set and adhere to time limits, ensuring gambling is balanced with other activities.&#x20;
+* **Make Informed Decisions:** Avoid gambling when under extreme stress, feeling depressed, or influenced by substances or alcohol.&#x20;
+* **Take Regular Breaks:** If you feel tired or unable to concentrate, take a break.&#x20;
+* **Use Only One Account:** To monitor time and money spent on gambling, it is recommended to use only one account per person.
 
-Additional resources on gambling addictions can be found at:
+#### Set Deposit Limits&#x20;
 
-Advice to consider if you’re gambling | BeGambleAware
+Before starting to gamble, consider how much you can afford according to your financial situation. Only gamble with funds intended for entertainment.
 
-Guidelines for Responsible Gambling at TGM.Bet:
+#### Do Not Chase Losses&#x20;
 
-To ensure a positive gambling experience, consider the following:
+Avoid taking risks to recover previous losses. Gambling should be for entertainment, not for making money.
 
-• Set a deposit boundary aligned with your finances. Engage in amounts meant solely for entertainment.
+#### Set Time Limits&#x20;
 
-• Avoid chasing losses at any cost. Gamble for pleasure, not profit.
+Set time limits and adhere to them. Remember, gambling should be balanced with your other hobbies and not be your only hobby.
 
-• Establish and adhere to a time limit, ensuring gambling complements other activities rather than dominating them.
+#### Smart Gambling&#x20;
 
-• Make informed decisions: Avoid gambling when overly stressed, depressed, or influenced by substances or medications.
+Do not gamble when you are under extreme stress, feeling depressed, or under the influence of medications, drugs, or alcohol.
 
-• Take regular breaks to refresh and refocus.
+#### Take Breaks&#x20;
 
-• Limit yourself to a single account to monitor time and money spent on gambling.
+If you notice that you are tired or unable to concentrate, take a break.
 
-Set yourself a deposit limit
+#### Only Use One Account&#x20;
 
-Before you start to gambling think about how much you can afford to gamble with according to Your financial situation. Play with amounts which are for fun and for Your entertainment
+To better monitor your gambling time and expenditure, it is strongly recommended to use only one account per person.
 
-Do not try to win back a loss at every cost
+#### Minor Protection&#x20;
 
-Try to not take to huge risks to win back what You lost before at any cost. Play for Entertainment and not to earn money.
+Our services are designed for individuals aged 18 and above. Protect your login information to prevent unauthorized access by minors. We recommend using internet filters to restrict inappropriate content for minors. A list of recommended filters can be found at:&#x20;
 
-Set yourself a time limit
+* **Best Internet Filters for Kids |** Famisafe
 
-Set yourself a time limit and do not break it. Keep in mind gambling should stay in balance with your other hobbies and not be Your only hobby.
+#### Self-Exclusion&#x20;
 
-Play smart
+If you identify signs of gambling addiction or wish to take a break from gambling, we are here to help. "Self-Exclusion" allows you to voluntarily restrict access to gambling services. This decision is binding for the specified period. To initiate this process, contact us via email and specify a period between 6 months and 5 years:&#x20;
 
-It is smarter to not play, when You are extremely stressed, depressed or under to much pressure. Also do not play when you are under the influence of Medications, Drugs or Alcohol.
+* **Email:** tgm.bet@TGM.Bet&#x20;
 
-Take breaks
-
-You should take breaks when You notice, that You get tired or can´t concentrate anymore.
-
-Only one account
-
-To make it easier to have an overview how much time and money You spend on gambling it is highly advised to not create more than one Account per Person.
-
-​
-
-Minor Protection
-
-Our services are designed for those 18 and above. Safeguard your login details to prevent unauthorized access by minors. We advise employing internet filters to restrict unsuitable content for minors. A list of recommended filters can be found at:
-
-Best Internet Filters for Kid's Phones and Tablets
-
-@Famisafe
-
-Self-Exclusion:
-
-Should you identify with gambling addiction symptoms or wish to abstain for any reason, we're here to help. "Self-Exclusion" allows you to voluntarily restrict access to gambling services. This decision remains binding for the chosen duration. To initiate this process, contact our support specifying a period between 6 months and 5 years:
-
-email: contact@TGM.Bet
-
-Please keep in mind that Self Exclusion is permanent for the set time span and will not be undone for your own protection.
-
-Please remember that self-exclusion is irreversible during the specified period for your safety. During this time, creating a new account is strictly forbidden and can lead to permanent suspension of your primary account.
+Please note, self-exclusion is irreversible for the specified period. During this time, creating a new account is strictly prohibited and may lead to permanent suspension of your primary account.
