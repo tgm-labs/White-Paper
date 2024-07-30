@@ -31,11 +31,11 @@ Rest assured, your personal information will remain confidential and will not be
 
 If you feel you might have a gambling addiction problem, you can take a self-assessment:&#x20;
 
-* **Self-Assessment Page |** [BeGambleAware](https://www.gambleaware.org/)&#x20;
+* **Self-Assessment Page |** [BeGambleAware](https://www.gambleaware.org/self-assessment-tool-entry)&#x20;
 
 For more resources on gambling addiction, please visit:&#x20;
 
-* **Gambling Advice |** [BeGambleAware](https://www.gambleaware.org/advice-if-you-are-gambling)
+* **Gambling Advice |** [BeGambleAware](https://www.gambleaware.org/signs-of-gambling-harms)
 
 ### Responsible Gambling Guidelines at TGM.Bet
 
