@@ -8,3 +8,4 @@
 * [Token Economics](token-economics.md)
 * [Staking Rewards](staking-rewards.md)
 * [General Terms and Conditions](general-terms-and-conditions.md)
+* [Bonus Terms & Conditions](bonus-terms-and-conditions.md)
