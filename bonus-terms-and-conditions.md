@@ -28,6 +28,8 @@
 * Each Telegram account can only claim this bonus once.
 * Only users who are joining for the first time and making their first deposit are eligible for this promotion.
 
+***
+
 ### **2.Daily First Deposit Bonus up to $120,000**&#x20;
 
 #### Promotion Details:&#x20;
@@ -61,6 +63,8 @@
 
 * You can only claim this bonus once per day (based on UTC+0).
 
+***
+
 ### **3.Daily Betting Cashback of 0.8%**&#x20;
 
 #### **Promotion Details**:
@@ -78,6 +82,8 @@
 #### **Notes**:
 
 * You can only claim this cashback once per day (based on UTC+0).
+
+***
 
 ### **4.Daily Slot Game Bonus of up to 10%**&#x20;
 
@@ -101,6 +107,8 @@
 #### **Notes**:
 
 * You can only claim this bonus once per day (based on UTC+0).
+
+***
 
 ### Terms and Conditions
 
