@@ -1,99 +1,113 @@
 # Bonus Terms and Conditions
 
-### **1. Welcome Bonus for First Deposit at TGM.Bet**
+### 1.**First Deposit Bonus up to $20,000** **Promotion**&#x20;
 
-#### **Promotion Details:**
+#### Promotion Details:&#x20;
 
-* When you first join TGM.Bet and deposit at least $25 in TGM, you will automatically receive a 200% welcome bonus.
+* When you first join TGM.Bet and deposit at least $25 worth of TGM, you will automatically receive a 200% welcome bonus.
 
-#### **Steps:**
+#### Promotion Information:
 
-* Make your first deposit using any cryptocurrency supported by the platform, with a minimum deposit amount of $25.
+* Make your first deposit using a supported cryptocurrency, with a minimum deposit of $25.
 * You will receive a 200% bonus on your first deposit (up to a maximum of $20,000).
-* For every 6 times you wager your initial deposit, you will receive 10% of the bonus.
-* The bonus can be issued in $TGM or the same currency as your initial deposit (player's choice).
+* For every 6 times your initial deposit amount you bet, you will receive a 10% bonus.
 
-#### **Example:**
+#### Example:
 
-* Deposit $100 in USDT.
-* Receive a total bonus of $200 in USDT.
-* For every $600 wagered, receive a $20 bonus.
+* First join TGM.Bet and make your initial deposit.
+* Deposit $100 USDT.
+* You will receive a total bonus of $200 USDT.
+* For every $600 wagered, you will earn a $20 bonus.
 
-#### **Notes:**
+#### Claiming
 
-* The minimum deposit amount to activate this offer is $25.
-* The maximum bonus amount is $20,000.
+* You need to contact customer support to claim your bonus.
 
-***
+#### Notes:
 
-### **2. Daily First Deposit Bonus**
+* Each Telegram account can only claim this bonus once.
+* Only users who are joining for the first time and making their first deposit are eligible for this promotion.
 
-#### **Promotion Details:**
+**2.Daily First Deposit Bonus up to $120,000**&#x20;
 
-* Your first deposit each day can earn you a reward based on the deposit amount, up to a maximum bonus of $120,000.
+#### Promotion Details:&#x20;
 
-#### **Details:**
+* Every day, your first deposit can receive a bonus according to the deposit amount, with a maximum bonus of $120,000.
 
-* First deposit of the day, maximum bonus of $120,000.
-* $10 - $99: 2%
-* $100 - $999: 3%
-* $1,000 - $4,999: 4%
-* $5,000 - $9,999: 5%
-* $10,000 - $49,999: 7%
-* $50,000 - $99,999: 8%
-* $100,000 - $499,999: 10%
-* $500,000 - $999,999: 12%
+#### Promotion Information:
 
-#### **Example:**
+* Daily first deposit rewards are based on the following tiers:
 
-* First deposit of the day is $2,000, receive 4% bonus on deposit amount, $2,000 \* 4% = $80.
+| Stage | Deposit Amount (USD) | Bonus Percentage |
+| ----- | -------------------- | ---------------- |
+| 1     | 0-99                 | 2%               |
+| 2     | 100-999              | 3%               |
+| 3     | 1000-4999            | 4%               |
+| 4     | 5000-9999            | 5%               |
+| 5     | 10000-49999          | 7%               |
+| 6     | 50000-99999          | 9%               |
+| 7     | 100000-499999        | 11%              |
+| 8     | 500000-999999        | 13%              |
 
-#### **Claiming Method:**
+#### **Example**:
 
-1. After confirming your first deposit, contact online customer service to claim your bonus.
-2. Withdrawal can be requested with only 1x wagering requirement.
-3. The bonus can be claimed once per day (calculated based on Coordinated Universal Time, UTC+0).
+* If you deposit $2,000 on the first deposit of the day, you will be eligible for the Stage 3 reward, receiving 4% bonus on the deposit amount, calculated as $2,000 \* 4% = $80.
 
-#### **Notes:**
+#### **Claiming**:
 
-* TGM.Bet reserves the right to the final interpretation of the promotion and may cancel the promotion in cases of abuse.
+* You need to contact customer support to claim your bonus.
 
-***
+#### **Notes**:
 
-### **3. Daily Betting Rewards**
+* You can only claim this bonus once per day (based on UTC+0).
 
-#### **Promotion Rules:**
+### **3.Daily Betting Cashback of 0.8%**&#x20;
 
-* Enjoy up to 0.8% cash back on daily bets!
+#### **Promotion Details**:
 
-#### **Details:**
+* You will receive a 0.8% cashback on all game bets made daily on TGM.Bet.
 
-1. All bets placed on the platform's games are eligible for cashback, with varying cashback rates for different games.
-2. The currency used for betting will be the same as the currency in which the cashback is issued.
-3. Cashback can be claimed once per day (calculated based on Coordinated Universal Time, UTC+0).
+#### **Example**:
 
-***
+* If you bet a total of $10,000 on TGM.Bet in a day, you will receive $10,000 \* 0.8% = $80 cashback.
 
-### **4. Slot Machine Bonus**
+#### **Claiming**:
 
-#### **Promotion Rules:**
+* You need to contact customer support to claim your cashback.
 
-* Win over 30x in any slot game and receive 5% of the winnings as a bonus!
+#### **Notes**:
 
-#### **Details:**
+* You can only claim this cashback once per day (based on UTC+0).
 
-1. Bonuses must be claimed within 24 hours or they will expire.
-2. Sharing your winnings will get you a 5% bonus on the winning amount (3% if not shared).
-3. The bonus can be claimed once per day (calculated based on Coordinated Universal Time, UTC+0).
+### **4.Daily Slot Game Bonus of up to 10%**&#x20;
 
-***
+#### **Promotion Details**:
+
+* Play any slot game daily to receive a bonus of 5%-10%.
+
+#### Promotion Information::
+
+* If you win more than 50x your bet, you will receive 5% of the winning amount as an additional bonus.
+* If you win more than 100x your bet, you will receive 10% of the winning amount as an additional bonus.
+
+#### **Example**:
+
+* If you win 60x your bet in any slot game, and your winning amount is $500, and you share it, you will receive an additional $500 \* 5% = $25 bonus.
+
+#### **Claiming**:
+
+* Sharing the win will earn you a bonus of 5% / 10% (if not shared, the bonus is 3% / 7%).
+
+#### **Notes**:
+
+* You can only claim this bonus once per day (based on UTC+0).
 
 ### Terms and Conditions
 
-* There are no restrictions on the bet amount when using bonus funds.
+* Bonuses will be awarded in $TGM.
 * We reserve the right to modify, suspend, or cancel this promotion at any time without notice.
-* If any of the above conditions are not met, we reserve the right to prohibit any player from participating in this promotion.
-* These terms and conditions are subject to the general terms and conditions of the website and the general bonus terms and conditions. In case of a conflict between these terms and the general terms, these terms shall prevail.
-* Each customer, computer, IP address, or household can only benefit from this offer once.
-* If a player is found to be using multiple accounts to claim bonuses, all accounts will be closed, and the bonuses will be forfeited.
+* Failure to meet any of the above conditions may result in disqualification from participating in this promotion.
+* These terms and conditions are subject to the general terms and conditions of the site and general bonus terms and conditions. In case of a conflict, these terms will prevail.
+* Each customer, each computer, each IP address, or each household is eligible for this promotion only once.
+* If multiple accounts are used to claim bonuses, all accounts will be closed, and the bonuses will be forfeited.
 * TGM.Bet reserves the right to modify, suspend, or cancel any promotion at any time without notice.
