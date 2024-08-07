@@ -28,7 +28,7 @@
 * Each Telegram account can only claim this bonus once.
 * Only users who are joining for the first time and making their first deposit are eligible for this promotion.
 
-**2.Daily First Deposit Bonus up to $120,000**&#x20;
+### **2.Daily First Deposit Bonus up to $120,000**&#x20;
 
 #### Promotion Details:&#x20;
 
